@@ -1,0 +1,16 @@
+asgiref==3.2.3
+certifi==2019.11.28
+chardet==3.0.4
+Django==3.0.2
+django-ckeditor==5.9.0
+django-crispy-forms==1.9.2
+django-js-asset==1.2.2
+idna==2.8
+numpy==1.18.4
+opencv-python==4.2.0.34
+Pillow==7.0.0
+python-decouple==3.3
+pytz==2019.3
+requests==2.22.0
+sqlparse==0.3.0
+urllib3==1.25.7
